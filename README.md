@@ -10,6 +10,9 @@
   - NewDocument(Deprecate) -> NewDocumentFromReader
   - https://github.com/PuerkitoBio/goqueryを参照
 
+## 注意
+Goのプログラム構成（package等）の理解が不十分なので、ディレクトリ構成はおかしいです。
+
 ## 実行方法
 ```bash
 # Webサーバの起動（スクレイピング用サイト）
